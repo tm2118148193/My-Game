@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true">
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/cpf/app/chess/algorithm/AlphaBeta.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/cpf/app/chess/algorithm/AnalysisBean.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/cpf/app/chess/algorithm/DebugInfo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/cpf/app/chess/algorithm/PieceScore.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/cpf/app/chess/algorithm/Role.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/cpf/app/chess/conf/ChessAudio.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/cpf/app/chess/conf/ChessDefined.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/cpf/app/chess/conf/ChessImage.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/cpf/app/chess/ctrl/AppConfig.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/cpf/app/chess/ctrl/AppContext.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/cpf/app/chess/ctrl/Application.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/cpf/app/chess/ctrl/CommandExecutor.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/cpf/app/chess/ctrl/Situation.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/cpf/app/chess/ctrl/SituationRecord.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/cpf/app/chess/inter/Rule.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/cpf/app/chess/swing/BoardPanel.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/cpf/app/chess/swing/ChessFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/cpf/app/chess/swing/ChessMenuBar.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/cpf/app/chess/swing/ChessPanel.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/cpf/app/chess/swing/ChessPiece.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/cpf/app/chess/swing/JPiece.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/cpf/app/chess/swing/TraceMarker.java" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
